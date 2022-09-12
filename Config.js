@@ -23,9 +23,9 @@ global.notice = ` *Hi 🥰 I m*
 *Not more..*
 *Also I am Student*
 *Subscribe to my Youtube Chanel - https://www.youtube.com/channel/UC7HMNAD9VqunnGT03Ajd2rg*`  // 👈 Enter Your details and Social Media Links and Anything
-global.owner =  ['+972502930010'] //👈  Enter Your number
-global.premium =  ['+972502930010'] //👈  Enter Your number
-global.ownernomer = '+972502930010' //👈  Enter Your number
+global.owner =  ['0502930010'] //👈  Enter Your number
+global.premium =  ['0502930010'] //👈  Enter Your number
+global.ownernomer = '0502930010' //👈  Enter Your number
 global.ownername = 'Ameer' //👈 Enter Your name
 global.botname = 'Muslim ＢＯＴ' //👈 Enter Your Bot name
 global.footer = '© 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖡𝗒 Muslim 𝖡𝗈𝗍' //👈 Enter Your Name
